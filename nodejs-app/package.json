@@ -8,6 +8,6 @@
   "dependencies": {
     "express": "4.x",
     "http-error": "latest",
-    "html0errors": "latest"
+    "html-errors": "latest"
   }
 }
